@@ -1,0 +1,127 @@
+* {
+    font-family: "Raleway", sans-serif;
+}
+
+/*
+    Container Base Style
+/* ================================ */
+.my.container {
+    min-height: 680px;
+}
+/* ================================ */
+
+
+/*
+    FIRST ROW CONTAINER
+/* ================================ */
+.my.first.container {
+    padding-top: 14em;
+    background: #01B29E;
+}
+
+.my.welcome.ribbon {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: 1px dashed #fbfbfb;
+    padding-top: 3.8em;
+    border-radius: 50%;
+}
+
+.my.welcome.message {
+    color: #fbfbfb;
+    text-align: center;
+    font-size: 52px;
+    font-weight: 100;
+}
+/* ================================ */
+
+
+/*
+    SECOND ROW CONTAINER
+/* ================================ */
+.my.second.container {
+    padding-top: 10em;
+    background: #F3F0DD;
+}
+
+.my.image img {
+    border-radius: 50%;
+    border: 1px dashed #797363;
+    padding: 3px;
+}
+
+.my.second.container h2 {
+    display: inline-block;
+    color: #797363;
+    border-bottom: 5px solid #797363;
+    margin-bottom: 0.5em;
+    font-weight: 100;
+}
+
+.my.second.container p {
+    color: #555555;
+    line-height: 2;
+}
+/* ================================ */
+
+
+/*
+    THIRD ROW CONTAINER
+/* ================================ */
+.my.third.container {
+    padding: 4em 0;
+    background: #797363;
+}
+
+.my.third.container h2 {
+    display: inline-block;
+    color: #F3F0DD;
+    text-align: center;
+    font-weight: 100;
+    border-bottom: 1px dashed #F3F0DD;
+    margin-bottom: 0.5em;
+}
+
+.my.product {
+    padding-bottom: 1.5em;
+}
+/* ================================ */
+
+
+/*
+    FOURTH ROW CONTAINER
+/* ================================ */
+.my.fourth.container {
+    padding-top: 5em;
+    background: #F3F0DD;
+}
+
+.my.fourth.container h2 {
+    display: inline-block;
+    color: #797363;
+    text-align: center;
+    border-bottom: 5px solid #797363;
+    margin-bottom: 0.5em;
+    font-weight: 100;
+}
+
+.my.radius.button {
+    background-color: #01B29E;
+}
+/* ================================ */
+
+
+/*
+    FOOTER
+/* ================================ */
+.my.footer {
+    height: 60px;
+    padding: 1em;
+    background: #F2354F;
+}
+
+.my.footer p {
+    color: #ffffff;
+}
+/* ================================ */
